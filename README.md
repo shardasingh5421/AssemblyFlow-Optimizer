@@ -54,7 +54,7 @@ OptiFlow can be implemented as a service, providing:
 
 To run OptiFlow locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/ANUJDWIVDI/SNH08_optiflow.git`
+1. Clone the repository: `git clone https://github.com/shardasingh5421/AssemblyFlow.git`
   
 2. Install dependencies: `pip install -r requirements.txt`
   
