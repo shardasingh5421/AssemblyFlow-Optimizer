@@ -60,9 +60,3 @@ To run OptiFlow locally, follow these steps:
   
 3. Run the application: `python app.py`
 
-## Contributions
-
-We welcome contributions to enhance OptiFlow's capabilities. Feel free to submit issues, pull requests, or suggestions.
-
-
-OptiFlow - Revolutionizing Material Movement in Assembly Departments with AI Optimization. 🚀
